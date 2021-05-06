@@ -43,10 +43,10 @@ public class gitMain {
                 case 2:
                     System.out.println(" la resta es " + casio.resta());
                     break;
-                /*case 3:
+                case 3:
                     System.out.println(" la multipilcacion es " + casio.multiplicacion());
                     break;
-                case 4:
+                /*case 4:
                     System.out.println(" La division es " + casio.division());
                     break;*/
                 default:
